@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WasmApp",
   "resources": {
-    "hash": "sha256-nJwc4/a6vN2p0XQoQPLJrp19bLBPZIqo2aWQ/HLUC2k=",
+    "hash": "sha256-1/43FUlydJlSbOQLDYssTG8HFHQY/voT+M5s2nO5pvg=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.lxbxdvl3py.js": "sha256-ecgBnobqVieZ3Mh+ihMpZW/s8mrrBAnJV3DWYbYq0bo="
     },
@@ -49,7 +49,7 @@
       "Syncfusion.Blazor.Navigations.wasm": "sha256-o6gfRKyPl1T5ndk0+CMI/NykO9zf3kZ0pEWmXMcMcKw=",
       "Syncfusion.Blazor.Notifications.wasm": "sha256-Ew2vZmTBHzNsNToEKJ6xVcu0icnBGzlYKlE1UhGgjhI=",
       "Syncfusion.Blazor.Popups.wasm": "sha256-8dld9Pcdl9rgBl44NNX5cGkwId0jO911SO3e5EpvRsA=",
-      "Syncfusion.Blazor.SfPdfViewer.wasm": "sha256-MX2JUzftFXyNJ3pEKP9FLa+UZ4+DFlHbFMU2CLjP9Ts=",
+      "Syncfusion.Blazor.SfPdfViewer.wasm": "sha256-8ta+WSAboJ5LybSwI9RRKSrmUcwuTLS2lfYeyjabX0Y=",
       "Syncfusion.Blazor.Spinner.wasm": "sha256-uNDph5G7KYGUcTelm6zO8YUcX8ndKhEYYWqEHwPv5F0=",
       "Syncfusion.Blazor.SplitButtons.wasm": "sha256-bXPXD2w5FWf2osrWHNBEVuZCOgGWstkX6tuEdfz2OWc=",
       "Syncfusion.Blazor.Themes.wasm": "sha256-FKX8OVD921GbYgGwz4LJGT5RL7ViofB7ghPteDDBx/4=",
